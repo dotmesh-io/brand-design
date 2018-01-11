@@ -1,6 +1,6 @@
 # Logos.
 
-All the datamesh logos in various formats. Please read the below for more information about formats and choosing the right logo.
+All the dotmesh logos in various formats. Please read the below for more information about formats and choosing the right logo.
 
 ## File formats.
 
