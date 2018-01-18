@@ -6,6 +6,7 @@ All the dotmesh logos in various formats. Please read the below for more informa
 
 1. EPS: For print only. Vector format logos
 2. PNG: For digital and web use only.
+3. SVG: Flexible use.
 
 ## Colour space.
 
@@ -30,4 +31,4 @@ If you wish to use the logo at a size smaller than:
 
 and you wish to place on a light coloured background, please use the files that contain 'small' in their name.
 
-_Note:_: Negative styles don't require a unqiue small version.
+_Note:_: Negative styles don't require a unique small version.
